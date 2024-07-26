@@ -33,7 +33,7 @@ This module allows users to set reminders that trigger email notifications at sp
 #### Fields
 - **Title**: Title of the reminder.
 - **Date-Time**: Date and time for sending the email notification.
-- **Recipient Email Address**: Date and time for sending the email notification.
+- **Recipient Email Address**: The reminder reciever email address, you can place your email here.
 - **HangfireJobId**: The Hangfire Id of the scheduled job.
 
 ## Getting Started
@@ -62,7 +62,7 @@ This module allows users to set reminders that trigger email notifications at sp
     }
     ```
 
-5. Run the application and the Database will be created, you will have the 2 main tables Reminders & Departments, the rest of tables is for the Hangfire server storage:
+5. Run the application, the Database will be created automatically, you will have 2 main tables Reminders & Departments, the rest of tables is for the Hangfire server storage:
     ```sh
     dotnet run
     ```
