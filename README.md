@@ -80,8 +80,13 @@ This module allows users to set reminders that trigger email notifications at sp
 
 ## Screenshots
 ![](https://github.com/Rami-Yusf/RingoMedia.ModulesTask/blob/master/Screenshots/Departments-list.png?raw=true)
+
 ![](https://github.com/Rami-Yusf/RingoMedia.ModulesTask/blob/master/Screenshots/Department-details.png?raw=true)
+
 ![](https://github.com/Rami-Yusf/RingoMedia.ModulesTask/blob/master/Screenshots/Department-edit.png?raw=true)
+
 ![](https://github.com/Rami-Yusf/RingoMedia.ModulesTask/blob/master/Screenshots/Department-create.png?raw=true)
+
 ![](https://github.com/Rami-Yusf/RingoMedia.ModulesTask/blob/master/Screenshots/Reminders-list.png?raw=true)
+
 ![](https://github.com/Rami-Yusf/RingoMedia.ModulesTask/blob/master/Screenshots/Reminder-edit.png?raw=true)
