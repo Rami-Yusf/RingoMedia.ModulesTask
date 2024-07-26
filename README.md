@@ -46,7 +46,7 @@ This module allows users to set reminders that trigger email notifications at sp
 ### Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/Rami-Yusf/RingoMedia.ModulesTask.git
     cd your-repo-name
     ```
 
