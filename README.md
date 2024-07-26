@@ -62,7 +62,7 @@ This module allows users to set reminders that trigger email notifications at sp
     }
     ```
 
-5. Run the application, the Database will be created automatically, you will have 2 main tables Reminders & Departments, the rest of tables is for the Hangfire server storage:
+5. Run the application, the Database will be created automatically with some seeding data, you will have 2 main tables Reminders & Departments, the rest of tables is for the Hangfire server storage:
     ```sh
     dotnet run
     ```
