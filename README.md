@@ -70,7 +70,7 @@ This module allows users to set reminders that trigger email notifications at sp
 ## Usage
 - Visit `http://localhost:5228` in your browser.
 - Navigate to the Departments from top menu to manage departments.
-- Navigate to the Reminders from top menu to set and manage reminders.
+- Navigate to the Reminders from top menu to manage reminders.
 
 ## Project Structure
 - **Controllers**: Contains the controllers for handling HTTP requests.
