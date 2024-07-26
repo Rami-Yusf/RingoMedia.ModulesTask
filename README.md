@@ -77,3 +77,6 @@ This module allows users to set reminders that trigger email notifications at sp
 - **Models**: Contains the models used in the application.
 - **Views**: Contains the Razor views for the UI.
 - **Services**: Contains Services and its interfaces with the business logic.
+
+## Screenshots
+![Departments-list](https://github.com/Rami-Yusf/RingoMedia.ModulesTask/blob/master/Screenshots/Departments-list.png?raw=true)
