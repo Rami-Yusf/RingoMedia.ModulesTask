@@ -79,4 +79,9 @@ This module allows users to set reminders that trigger email notifications at sp
 - **Services**: Contains Services and its interfaces with the business logic.
 
 ## Screenshots
-![Departments-list](https://github.com/Rami-Yusf/RingoMedia.ModulesTask/blob/master/Screenshots/Departments-list.png?raw=true)
+![](https://github.com/Rami-Yusf/RingoMedia.ModulesTask/blob/master/Screenshots/Departments-list.png?raw=true)
+![](https://github.com/Rami-Yusf/RingoMedia.ModulesTask/blob/master/Screenshots/Department-details.png?raw=true)
+![](https://github.com/Rami-Yusf/RingoMedia.ModulesTask/blob/master/Screenshots/Departments-edit.png?raw=true)
+![](https://github.com/Rami-Yusf/RingoMedia.ModulesTask/blob/master/Screenshots/Departments-create.png?raw=true)
+![](https://github.com/Rami-Yusf/RingoMedia.ModulesTask/blob/master/Screenshots/Reminders-list.png?raw=true)
+![](https://github.com/Rami-Yusf/RingoMedia.ModulesTask/blob/master/Screenshots/Reminder-edit.png?raw=true)
