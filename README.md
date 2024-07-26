@@ -47,7 +47,7 @@ This module allows users to set reminders that trigger email notifications at sp
 1. Clone the repository:
     ```sh
     git clone https://github.com/Rami-Yusf/RingoMedia.ModulesTask.git
-    cd your-repo-name
+    cd RingoMedia.ModulesTask
     ```
 
 2. Restore the dependencies:
@@ -62,7 +62,7 @@ This module allows users to set reminders that trigger email notifications at sp
     }
     ```
 
-5. Run the application, the Database will be created automatically, you will have 2 main tables Reminders & Departments, the rest of tables is for the Hangfire server storage:
+5. Run the application, the Database will be created automatically with some seeding data, you will have 2 main tables Reminders & Departments, the rest of tables is for the Hangfire server storage:
     ```sh
     dotnet run
     ```
@@ -70,7 +70,7 @@ This module allows users to set reminders that trigger email notifications at sp
 ## Usage
 - Visit `http://localhost:5228` in your browser.
 - Navigate to the Departments from top menu to manage departments.
-- Navigate to the Reminders from top menu to set and manage reminders.
+- Navigate to the Reminders from top menu to manage reminders.
 
 ## Project Structure
 - **Controllers**: Contains the controllers for handling HTTP requests.
