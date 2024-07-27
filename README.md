@@ -28,7 +28,7 @@ This module allows users to set reminders that trigger email notifications at sp
 #### Features
 - Set reminders with a title and specific date-time for sending an email notification.
 - Integrate with Mailtrap & Hangfire background jobs to schedule & send the reminder email on the Selected date-time. To try it, just create a reminder and set the date-time to the next minute and you will recieve a reminder email.
-- Validtion Atrribute to ensure that the date-time is in the future, aslo the UI is showing only future date-time
+- Validtion Atrribute to ensure that the date-time is in the future, also the UI is showing only future date-time
 
 #### Fields
 - **Title**: Title of the reminder.
