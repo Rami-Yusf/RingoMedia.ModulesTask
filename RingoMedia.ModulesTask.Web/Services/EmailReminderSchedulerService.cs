@@ -23,7 +23,7 @@ public class EmailReminderSchedulerService : IEmailReminderSchedulerService
     {
         SmtpClient smtpClient = new SmtpClient("live.smtp.mailtrap.io", 587)
         {
-            Credentials = new NetworkCredential("api", "3e2dad0017231b6ce3b645e577be43e6"),
+            Credentials = new NetworkCredential("api", "-Your API Key-"),
             EnableSsl = true
         };
         smtpClient.Send("mailtrap@demomailtrap.com", reminder.RecipientEmail, reminder.Title, "Gentle Reminder!");
